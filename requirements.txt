@@ -1,0 +1,6 @@
+fastapi
+pandas
+scipy
+scikit-learn
+Flask
+numpy
